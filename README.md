@@ -1,5 +1,5 @@
 # wdyh
-武大樱花预约脚本，验证码CaptchKey、TOKEN算法
+武大樱花预约脚本，验证码CaptchKey、TOKEN、滑块算法
 
 标明意图，vx联系方式: songbiao_
 
